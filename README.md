@@ -1,4 +1,3 @@
-# Internship_26
 # 8-Bit to 4-Bit Converter using Cadence Virtuoso (MobEx)
 
 ## Project Overview
